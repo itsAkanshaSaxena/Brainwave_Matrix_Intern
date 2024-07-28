@@ -12,6 +12,8 @@ HTML: For the structure of the application.
 CSS: For styling and layout.
 JavaScript: For the functionality and interactivity.
 
-Project Link : https://itsakanshasaxena.github.io/Brainwave_Matrix_Intern/
+## Project Link : https://itsakanshasaxena.github.io/Brainwave_Matrix_Intern/
+
+
 
 
