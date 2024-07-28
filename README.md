@@ -18,6 +18,9 @@ JavaScript: For the functionality and interactivity.
 
 https://itsakanshasaxena.github.io/Brainwave_Matrix_Intern/
 
+## Demo
+![screenshot](/images/todogif.gif)
+
 
 
 
